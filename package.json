@@ -1,6 +1,6 @@
 {
   "name": "rest-me",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple rest client with multiple strategies",
   "homepage": "https://github.com/passkey1510/rest-me",
   "repository": "passkey1510/rest-me",
